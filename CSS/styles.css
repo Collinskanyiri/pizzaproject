@@ -126,7 +126,7 @@ input[type="email"] {
 .click-me,
 button[type=submit],
 .deliver,
-.delivernot {
+.DeliverNot {
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
@@ -141,7 +141,7 @@ button[type=submit],
 }
 
 .deliver,
-.delivernot {
+.DeliverNot {
     margin: 10px;
 }
 
